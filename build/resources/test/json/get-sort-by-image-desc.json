@@ -1,0 +1,139 @@
+{
+    "number": 0,
+    "last": false,
+    "size": 10,
+    "numberOfElements": 10,
+    "totalPages": 2,
+    "pageable": {
+        "paged": true,
+        "pageNumber": 0,
+        "offset": 0,
+        "pageSize": 10,
+        "unpaged": false,
+        "sort": {
+            "unsorted": false,
+            "sorted": true,
+            "empty": false
+        }
+    },
+    "sort": {
+        "unsorted": false,
+        "sorted": true,
+        "empty": false
+    },
+    "content": [
+        {
+            "image": "9.jpg",
+            "name": "9",
+            "ios_store": "ios store 9",
+            "id": 9,
+            "ios_details": {
+                "size": 99,
+                "ratings": 99
+            },
+            "type": "ios"
+        },
+        {
+            "image": "8.jpg",
+            "name": "8",
+            "ios_store": "ios store 8",
+            "id": 8,
+            "ios_details": {
+                "size": 88,
+                "ratings": 88
+            },
+            "type": "ios"
+        },
+        {
+            "image": "7.jpg",
+            "name": "7",
+            "ios_store": "ios store 7",
+            "id": 7,
+            "ios_details": {
+                "size": 77,
+                "ratings": 77
+            },
+            "type": "ios"
+        },
+        {
+            "image": "6.jpg",
+            "name": "sixth",
+            "ios_store": "ios store 6",
+            "id": 6,
+            "ios_details": {
+                "size": 66,
+                "ratings": 66
+            },
+            "type": "ios"
+        },
+        {
+            "image": "5.jpg",
+            "android_store": "android_store 5",
+            "android_details": {
+                "size": 55,
+                "ratings": 55
+            },
+            "name": "fifth",
+            "id": 5,
+            "type": "android"
+        },
+        {
+            "image": "4.jpg",
+            "android_store": "android_store 4",
+            "android_details": {
+                "size": 4,
+                "ratings": 4
+            },
+            "name": "forth",
+            "id": 4,
+            "type": "android"
+        },
+        {
+            "image": "3.jpg",
+            "android_store": "android_store 3",
+            "android_details": {
+                "size": 3,
+                "ratings": 3
+            },
+            "name": "third",
+            "id": 3,
+            "type": "android"
+        },
+        {
+            "image": "2.jpg",
+            "android_store": "android_store 2",
+            "android_details": {
+                "size": 2,
+                "ratings": 2
+            },
+            "name": "second",
+            "id": 2,
+            "type": "android"
+        },
+        {
+            "image": "14.png",
+            "name": "14 app",
+            "ios_store": "ios store 14",
+            "id": 14,
+            "ios_details": {
+                "size": 114,
+                "ratings": 14
+            },
+            "type": "ios"
+        },
+        {
+            "image": "13.png",
+            "android_store": "android_store 13",
+            "android_details": {
+                "size": 113,
+                "ratings": 13
+            },
+            "name": "13 app",
+            "id": 13,
+            "type": "android"
+        }
+    ],
+    "first": true,
+    "totalElements": 14,
+    "empty": false
+}

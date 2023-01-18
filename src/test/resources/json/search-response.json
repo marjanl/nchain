@@ -1,0 +1,62 @@
+{
+    "number": 0,
+    "last": true,
+    "size": 10,
+    "numberOfElements": 3,
+    "totalPages": 1,
+    "pageable": {
+        "paged": true,
+        "pageNumber": 0,
+        "offset": 0,
+        "pageSize": 10,
+        "unpaged": false,
+        "sort": {
+            "unsorted": false,
+            "sorted": true,
+            "empty": false
+        }
+    },
+    "sort": {
+        "unsorted": false,
+        "sorted": true,
+        "empty": false
+    },
+    "content": [
+        {
+            "image": "3.jpg",
+            "android_store": "android_store 3",
+            "android_details": {
+                "size": 3,
+                "ratings": 3
+            },
+            "name": "third",
+            "id": 3,
+            "type": "android"
+        },
+        {
+            "image": "4.jpg",
+            "android_store": "android_store 4",
+            "android_details": {
+                "size": 4,
+                "ratings": 4
+            },
+            "name": "forth",
+            "id": 4,
+            "type": "android"
+        },
+        {
+            "image": "5.jpg",
+            "android_store": "android_store 5",
+            "android_details": {
+                "size": 55,
+                "ratings": 55
+            },
+            "name": "fifth",
+            "id": 5,
+            "type": "android"
+        }
+    ],
+    "first": true,
+    "totalElements": 3,
+    "empty": false
+}

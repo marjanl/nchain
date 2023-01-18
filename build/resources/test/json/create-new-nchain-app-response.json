@@ -1,0 +1,24 @@
+[
+    {
+        "image": "ena slikca",
+        "android_store": "ANDROID STORE",
+        "android_details": {
+            "size": 5,
+            "ratings": 12
+        },
+        "name": "2",
+        "id": 15,
+        "type": "android"
+    },
+    {
+        "image": "ena slikca",
+        "name": "2",
+        "ios_store": "ios store 1",
+        "id": 16,
+        "ios_details": {
+            "size": 5,
+            "ratings": 12
+        },
+        "type": "ios"
+    }
+]
